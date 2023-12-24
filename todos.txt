@@ -1,6 +1,6 @@
-clean the bag
-fix the drawer
-make soup
-make pizza
-we just made a default arg
+Clean the programfix the drawer
+Buy plantsMake Margarita pizzawe just made a default arg
 Master Python!
+My newest todo is added
+Last todo
+And lastly
